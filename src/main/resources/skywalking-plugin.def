@@ -1,0 +1,5 @@
+
+reactive-collection-crud=org.apache.skywalking.apm.plugin.couchbase.v76.define.ReactiveCollectionCrudInstrumentation
+couchbase-cluster-query=org.apache.skywalking.apm.plugin.couchbase.v76.define.ClusterQueryInstrumentation
+couchbase-collection-crud=org.apache.skywalking.apm.plugin.couchbase.v76.define.CollectionCrudInstrumentation
+couchbase-async-collection-crud=org.apache.skywalking.apm.plugin.couchbase.v76.define.AsyncCollectionCrudInstrumentation
